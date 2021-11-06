@@ -3,7 +3,7 @@
  * This is free and unencumbered software released into the public domain.
  * 
  * The HTTPSRedirect library can be found here:
- * https://github.com/jbuszkie/HTTPSRedirect
+ * https://github.com/electronicsguy/HTTPSRedirect
  */
 
 #include <Arduino.h>
